@@ -59,5 +59,4 @@
         echo "segju";
         echo "dnfru";
         echo "foinv";
-        echo "epsqi";
 ?>
