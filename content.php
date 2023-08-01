@@ -62,5 +62,4 @@
         echo "kbyob";
         echo "wisgx";
         echo "bdxrt";
-        echo "uwilm";
 ?>
