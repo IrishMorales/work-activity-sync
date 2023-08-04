@@ -60,6 +60,5 @@
         echo "dnfru";
         echo "gspgq";
         echo "kbyob";
-        echo "wisgx";
-        echo "xbcnn";
+        echo "hnmgr";
 ?>
