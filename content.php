@@ -60,5 +60,4 @@
         echo "dnfru";
         echo "gspgq";
         echo "sbgpr";
-        echo "mylba";
 ?>
