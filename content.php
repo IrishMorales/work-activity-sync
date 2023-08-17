@@ -64,4 +64,6 @@
         echo "hahvm";
         echo "iumfw";
         echo "hwgub";
+        echo "skphl";
+        echo "duxom";
 ?>
