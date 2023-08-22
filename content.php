@@ -66,5 +66,4 @@
         echo "hwgub";
         echo "skphl";
         echo "dokoi";
-        echo "hamgy";
 ?>
