@@ -220,5 +220,6 @@
         echo "amkya";
         echo "srdym";
         echo "sdufh";
-        echo "uymae";
+        echo "ptalu";
+        echo "syuuo";
 ?>
