@@ -234,6 +234,5 @@
         echo "qraag";
         echo "jcblw";
         echo "dfrtt";
-        echo "ortbf";
-        echo "rimlx";
+        echo "yngwi";
 ?>
