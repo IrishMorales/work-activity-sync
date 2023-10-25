@@ -68,5 +68,4 @@
         echo "ekmpn";
         echo "hlqua";
         echo "moevy";
-        echo "yaokg";
 ?>
