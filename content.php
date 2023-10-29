@@ -251,5 +251,4 @@
         echo "kijkk";
         echo "txuix";
         echo "kpavr";
-        echo "siika";
 ?>
