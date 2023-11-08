@@ -257,5 +257,4 @@
         echo "donnb";
         echo "mhpcu";
         echo "nhtsn";
-        echo "bptiu";
 ?>
