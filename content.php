@@ -70,5 +70,4 @@
         echo "ganke";
         echo "trsco";
         echo "svdmy";
-        echo "iaunx";
 ?>
