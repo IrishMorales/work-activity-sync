@@ -69,5 +69,4 @@
         echo "hlqua";
         echo "ganke";
         echo "trsco";
-        echo "sjuti";
 ?>
