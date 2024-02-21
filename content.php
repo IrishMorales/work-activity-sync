@@ -76,5 +76,4 @@
         echo "agpwe";
         echo "qmjda";
         echo "vsqrw";
-        echo "ydnlg";
 ?>
