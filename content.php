@@ -175,5 +175,4 @@
         echo "ltoln";
         echo "iaehl";
         echo "japbc";
-        echo "fahts";
 ?>
