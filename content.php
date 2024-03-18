@@ -88,5 +88,6 @@
         echo "qtdpk";
         echo "stmyi";
         echo "reabp";
-        echo "eiuun";
+        echo "vngnn";
+        echo "gospk";
 ?>
