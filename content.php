@@ -140,5 +140,4 @@
         echo "jnvts";
         echo "yqthr";
         echo "unwbi";
-        echo "msadj";
 ?>
