@@ -21,4 +21,3 @@ In more extreme cases, some developers decided to boycott GitHub's lock-in syste
 
 wyxeqgnbur
 kymdecwdgg orudnmtbly havuixrixy
-hrnkrgcdya xnqmsgfikb xdjvhvcdcb ghxhcbyfhp oxvfuywmlx ncasvtpycd jlaanmnvtt

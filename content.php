@@ -162,5 +162,4 @@
         echo "ligxc";
         echo "dvbcg";
         echo "fjdag";
-        echo "wacwl";
 ?>
