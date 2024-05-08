@@ -163,5 +163,4 @@
         echo "dvbcg";
         echo "qcibo";
         echo "twcej";
-        echo "kdtqf";
 ?>
