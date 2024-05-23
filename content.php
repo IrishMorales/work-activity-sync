@@ -162,5 +162,4 @@
         echo "ligxc";
         echo "dvbcg";
         echo "qcibo";
-        echo "fctsm";
 ?>
