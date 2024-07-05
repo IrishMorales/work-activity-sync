@@ -132,5 +132,4 @@
         echo "jardy";
         echo "skylc";
         echo "lglku";
-        echo "usiwj";
 ?>
