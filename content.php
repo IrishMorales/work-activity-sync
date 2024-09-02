@@ -20,5 +20,8 @@
         echo "fmosy";
         echo "hfyac";
         echo "duerm";
-        echo "yijqt";
+        echo "omsla";
+        echo "otgde";
+        echo "afllu";
+        echo "fwhrl";
 ?>
