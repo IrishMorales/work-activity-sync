@@ -31,5 +31,4 @@
         echo "uqiyi";
         echo "wbkgj";
         echo "eciqy";
-        echo "ehepa";
 ?>
