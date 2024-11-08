@@ -3,5 +3,4 @@
         echo "kdbmj";
         echo "kvexs";
         echo "prvda";
-        echo "wiwad";
 ?>
