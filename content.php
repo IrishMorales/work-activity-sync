@@ -7,5 +7,4 @@
         echo "odrvl";
         echo "xjvsx";
         echo "pjnbt";
-        echo "kytda";
 ?>
