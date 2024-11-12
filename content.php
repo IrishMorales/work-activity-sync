@@ -8,5 +8,4 @@
         echo "xjvsx";
         echo "ykhau";
         echo "mifym";
-        echo "hkhfs";
 ?>
