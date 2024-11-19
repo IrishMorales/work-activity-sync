@@ -12,5 +12,4 @@
         echo "fdxlu";
         echo "csylq";
         echo "tqspi";
-        echo "yerwx";
 ?>
