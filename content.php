@@ -10,5 +10,4 @@
         echo "nffwc";
         echo "wllya";
         echo "fdxlu";
-        echo "quoet";
 ?>
