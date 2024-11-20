@@ -7,6 +7,6 @@
         echo "odrvl";
         echo "xjvsx";
         echo "tjldn";
-        echo "ombkw";
-        echo "widjl";
+        echo "toygu";
+        echo "nixcp";
 ?>
