@@ -9,6 +9,5 @@
         echo "tjldn";
         echo "toygu";
         echo "hwjps";
-        echo "vqgxd";
-        echo "vechh";
+        echo "xhlks";
 ?>
